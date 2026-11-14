@@ -1,5 +1,5 @@
 
-# StudyLite 💜
+# StudyLite 
 
 ## About My Project
 StudyLite is a simple website that helps students keep track of their school assignments. I wanted to create something that makes staying organized easier and completing assignments a little more fun.
